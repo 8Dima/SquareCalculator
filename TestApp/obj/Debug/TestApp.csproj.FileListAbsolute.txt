@@ -1,0 +1,9 @@
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/bin/Debug/TestApp.exe
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/bin/Debug/TestApp.pdb
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/bin/Debug/squareCalc.dll
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/bin/Debug/squareCalc.pdb
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/obj/Debug/TestApp.csprojAssemblyReference.cache
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/obj/Debug/TestApp.csproj.CoreCompileInputs.cache
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/obj/Debug/TestApp.csproj.CopyComplete
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/obj/Debug/TestApp.exe
+/Users/dmitriy/RiderProjects/squareCalculator/TestApp/obj/Debug/TestApp.pdb

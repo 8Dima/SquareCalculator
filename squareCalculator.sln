@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squareCalc", "squareCalc\squareCalc.csproj", "{D0381901-1E61-405A-82E7-F57B5E459E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{D13D502C-0EE8-40BA-9AD9-2171D198A60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0381901-1E61-405A-82E7-F57B5E459E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0381901-1E61-405A-82E7-F57B5E459E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0381901-1E61-405A-82E7-F57B5E459E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0381901-1E61-405A-82E7-F57B5E459E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13D502C-0EE8-40BA-9AD9-2171D198A60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13D502C-0EE8-40BA-9AD9-2171D198A60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13D502C-0EE8-40BA-9AD9-2171D198A60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13D502C-0EE8-40BA-9AD9-2171D198A60A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

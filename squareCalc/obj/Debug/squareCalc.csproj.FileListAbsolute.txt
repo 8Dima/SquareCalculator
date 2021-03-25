@@ -1,0 +1,6 @@
+/Users/dmitriy/RiderProjects/squareCalculator/squareCalc/bin/Debug/squareCalc.dll
+/Users/dmitriy/RiderProjects/squareCalculator/squareCalc/bin/Debug/squareCalc.pdb
+/Users/dmitriy/RiderProjects/squareCalculator/squareCalc/obj/Debug/squareCalc.csprojAssemblyReference.cache
+/Users/dmitriy/RiderProjects/squareCalculator/squareCalc/obj/Debug/squareCalc.csproj.CoreCompileInputs.cache
+/Users/dmitriy/RiderProjects/squareCalculator/squareCalc/obj/Debug/squareCalc.dll
+/Users/dmitriy/RiderProjects/squareCalculator/squareCalc/obj/Debug/squareCalc.pdb
